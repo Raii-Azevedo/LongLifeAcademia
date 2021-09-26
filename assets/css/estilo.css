@@ -1,0 +1,28 @@
+body {
+    background-color: #1b1b1b!important;
+    padding-top: 60px;
+}
+
+.navbar {
+    z-index: 1000;
+    position: fixed;
+}
+
+.navbar.bg-dark{
+    background-color: rgba(0,0,0,0.6)!important;
+}
+
+.navbar.img{
+    height: 10px;
+}
+
+.fundo-img {
+    background-repeat: repeat-x;
+}
+
+.sobre {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #fff;
+    font-weight: bold;
+}
